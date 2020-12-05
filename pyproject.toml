@@ -1,0 +1,14 @@
+[tool]
+[tool.poetry]
+name = "AzeUserBot_Deployer"
+version = "1.0"
+description = "Automatic Deploy AzeUserBot to Heroku"
+authors = ["Vusal Mzade <vusal@vusal0868.tech>"]
+[tool.poetry.dependencies]
+python = "^3.8"
+bs4 = "*"
+gitpython = "*"
+heroku3 = "*"
+requests = "*"
+rich = "*"
+telethon = "*"
