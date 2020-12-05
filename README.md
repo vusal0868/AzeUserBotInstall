@@ -12,7 +12,8 @@ python3 -m azeuserbot_installer
 ```
 
 ## Geliştiriciler
-[@vusal0868](https://t.me/vusal0868)
+[@vusal0868 #WOM](https://t.me/vusal0868)
+[BayEgo#WOM]
 
 
 ## Lisans
