@@ -1,5 +1,5 @@
 # UserBot Installer
-[![Run on Repl.it](https://repl.it/badge/@vusal0868/AzeUserBotInstall](https://repl.it/@vusal0868/AzeUserBotInstall)
+[![Run on Repl.it](https://repl.it/badge/github/@vusal0868/AzeUserBotInstall](https://repl.it/@vusal0868/AzeUserBotInstall)
 
 HerokuAPI'si İşlədərək yapılmış Aftomatik AzeUserBot Deploy'er
 
